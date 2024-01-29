@@ -14,7 +14,7 @@
 
 ### Посевные площади
 #### C#, WinForms, XML, Excel
-##### Программа предназначена для ввода и визуализации посевных площадей сельскохозяйственных культур, выводом в Excel
+##### Программа предназначена для ввода и визуализации посевных площадей сельскохозяйственных культур, c выгрузкой данных в Excel
 
 |![1](https://github.com/brainstable/portfolio/blob/main/images/squares/1.PNG)|![2](https://github.com/brainstable/portfolio/blob/main/images/squares/2.PNG)|
 |-|-|

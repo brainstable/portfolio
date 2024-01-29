@@ -1,8 +1,8 @@
 ## Мои приложения
 
 ### МетеоГСУ
-#### C#, WinForms, JavaScript, CSS, HTML
-##### Программа предназначена для просмотра и анализа многолетних метеонаблюдений с возможность выгрузки данных в Excel. Архивы данных скачивается с сайта [https://rp5.ru](https://rp5.ru), для этого дополнительно была написана программа для чтения таких данных, их разбора и объединения нескольких файлов с выходом файла того же формата без пересечения данных 
+#### C#, WinForms, JavaScript, CSS, HTML, Excel
+##### Программа предназначена для просмотра и анализа многолетних метеонаблюдений с возможность выгрузки данных в Excel. Архивы данных скачива.тся с сайта [https://rp5.ru](https://rp5.ru), для этого дополнительно была написана утилита для чтения таких данных, их разбора и объединения нескольких файлов с выходом файла того же формата без пересечения данных 
 
 |![1](https://github.com/brainstable/portfolio/blob/main/images/meteo_gsu/1.PNG)|![2](https://github.com/brainstable/portfolio/blob/main/images/meteo_gsu/2.PNG)|
 |-|-|
@@ -13,8 +13,8 @@
 |![11](https://github.com/brainstable/portfolio/blob/main/images/meteo_gsu/11.PNG)|![12](https://github.com/brainstable/portfolio/blob/main/images/meteo_gsu/12.PNG)|
 
 ### Посевные площади
-#### C#, WinForms, XML
-##### Программа предназначена для ввода и визуализации посевных площадей сельскохозяйственных культур
+#### C#, WinForms, XML, Excel
+##### Программа предназначена для ввода и визуализации посевных площадей сельскохозяйственных культур, выводом в Excel
 
 |![1](https://github.com/brainstable/portfolio/blob/main/images/squares/1.PNG)|![2](https://github.com/brainstable/portfolio/blob/main/images/squares/2.PNG)|
 |-|-|
@@ -24,7 +24,7 @@
 |![9](https://github.com/brainstable/portfolio/blob/main/images/squares/9.PNG)|![10](https://github.com/brainstable/portfolio/blob/main/images/squares/10.PNG)|
 
 ### Справка по сортоиспытаниям
-#### C#, WinForms, XML
+#### C#, WinForms, XML, Excel
 ##### 
 
 |![1](https://github.com/brainstable/portfolio/blob/main/images/reference/1.PNG)|![2](https://github.com/brainstable/portfolio/blob/main/images/reference/2.PNG)|

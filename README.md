@@ -35,7 +35,16 @@
 |![9](https://github.com/brainstable/portfolio/blob/main/images/reference/9.PNG)|![10](https://github.com/brainstable/portfolio/blob/main/images/reference/10.PNG)|
 |![11](https://github.com/brainstable/portfolio/blob/main/images/reference/11.PNG)|![12](https://github.com/brainstable/portfolio/blob/main/images/reference/12.PNG)|
 
+### Статобработка
+#### C#, WinForms, XML, Excel
+##### Данная программа делает статистическу обработку данных по сортоиспытаниям и выводит их в файл Excel. Данные можно сохранять в файле на основе xml 
 
+|![1](https://github.com/brainstable/portfolio/blob/main/images/statistical/1.PNG)|![2](https://github.com/brainstable/portfolio/blob/main/images/statistical/2.PNG)|
+|-|-|
+|![3](https://github.com/brainstable/portfolio/blob/main/images/statistical/3.PNG)|![4](https://github.com/brainstable/portfolio/blob/main/images/statistical/4.PNG)|
+|![5](https://github.com/brainstable/portfolio/blob/main/images/statistical/5.PNG)|![6](https://github.com/brainstable/portfolio/blob/main/images/statistical/6.PNG)|
+|![7](https://github.com/brainstable/portfolio/blob/main/images/statistical/7.PNG)|![8](https://github.com/brainstable/portfolio/blob/main/images/statistical/8.PNG)|
+|![9](https://github.com/brainstable/portfolio/blob/main/images/statistical/9.PNG)|![10](https://github.com/brainstable/portfolio/blob/main/images/statistical/10.PNG)|
 
 
 
